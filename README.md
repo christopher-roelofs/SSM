@@ -1,0 +1,2 @@
+# SSM
+Starbound server manager
